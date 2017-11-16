@@ -1,0 +1,21 @@
+h4{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 800;
+  font-family: sans-serif;
+  padding-top: 80px;
+  font-family: 'Kavoon', cursive;
+  font-family: 'Cinzel', serif;
+  color: orange;
+}
+
+article{
+
+  color:grey;
+  font-size: 30px;
+  font-weight: lighter;
+
+}
+body{
+  background-color: white!important;
+}

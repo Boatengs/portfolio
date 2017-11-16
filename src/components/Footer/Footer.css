@@ -1,0 +1,25 @@
+footer {
+  background-color: #0D47A1 ;
+  padding-right: 30px;
+  color: white !important;
+  width: 100%;
+  margin-top: 100px;
+  padding-top: 50px;
+}
+
+.my-footer {
+  height: 200px;
+  width: 100%;
+  text-align: center;
+  padding: 80px;
+  text-align: right;
+}
+.my-copy{
+  text-align: left;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+ .icons{
+   padding: 20px;
+   color: white !important;
+ }

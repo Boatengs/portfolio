@@ -1,6 +1,6 @@
 .header {
   padding-top: 0px;
-  background-image: url("/images/balance.jpeg");
+  background-image: url("https://boateng95.imgur.com/all/");
   background-size: cover;
   background-position: 60% 0%;
 }
@@ -17,12 +17,12 @@
 }*/
 
 .my-image {
-  background-image: url("/images/boateng.jpg");
+  background-image: url("https://imgur.com/dkTUeNV");
   height: 600px;
   width: 100%;
   background-size: cover;
   background-position: center;
-  
+
 
 }
 

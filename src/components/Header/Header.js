@@ -20,12 +20,12 @@ let Header = (props) => (
         <Slider {...settings}>
           <div>
             <div className="header-text">
-              <h1 className="display-4 text-center">I am Boateng Sampson, And a Full Stuck Web Developer</h1>
+              <h1 className="display-4 text-center first">I am Boateng Sampson, A Full Stuck Web Developer</h1>
             </div>
           </div>
           <div>
             <div className="header-text-1">
-              <h5 className="display-3 text-center">The real impact of Life depends on will,the determination to keep on fighting<br/>
+              <h5 className="display-3 text-center ">The real impact of Life depends on will,the determination to keep on fighting<br/>
                 No matter the cost.</h5>
             </div>
           </div>

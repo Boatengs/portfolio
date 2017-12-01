@@ -1,15 +1,15 @@
-h5{
+ .my-article h5 {
   font-size: 40px;
-  font-family: ;
   font-weight: lighter;
   text-align: center;
-  padding-top: 300px;
+  padding-top: 50px;
   color: #8b1a1a;
   font-family: 'Kavoon', cursive;
   font-family: 'Cinzel', serif;
 }
- h6{
-   font-size: 30px;
-   color: grey;
-     font-weight: lighter;
- }
+
+h6 {
+  font-size: 30px;
+  color: grey;
+  font-weight: lighter;
+}

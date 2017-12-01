@@ -6,11 +6,19 @@
 
 .myskills {
   padding: 50px;
-  text-align: justify;
+  padding-bottom: 30px;
+  background-color: teal;
+
+}
+.myskills  h2 {
+  color: white !important;
 }
 
 .myskills ul {
   list-style: none;
+  margin: 10px auto;
+  justify-content: center;
+  display: inline;
 }
 
 hr {
@@ -18,9 +26,8 @@ hr {
   width: 100px;
 }
 
-h1 {
+ .sub{
   color: green !important;
-  padding: 40px;
   font-weight: bold;
   font-size: 30px;
   font-family: 'Kavoon', cursive;
@@ -28,7 +35,7 @@ h1 {
   text-align: center;
 }
 
-h2 {
+ h2 {
   text-align: center;
   font-family: sans-serif;
   font-weight: 800;
@@ -41,6 +48,12 @@ h2 {
 i {
   text-align: center;
   font-size: 100px;
+  color: grey ;
+  margin: 20px;
+  padding-top: 30px;
+}
+li {
+  text-align: center;
 }
 
 .non {
@@ -52,12 +65,15 @@ i {
   margin-top: 30px;
 }
 
-.my-slide {
+/*.my-slide {
   width: 100%;
   text-align: center;
-}
+}*/
 
 .my-non {
   width: 100%;
   text-align: center;
 }
+ .good {
+   margin: 0 !important;
+ }

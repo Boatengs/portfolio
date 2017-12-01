@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import Footer from "./components/Footer";
 import Objective from "./components/Objective";
 import Interest from "./components/Interest";
+import Projects from "./components/Projects";
 
 // let links = [
 //   {
@@ -23,13 +24,14 @@ import Interest from "./components/Interest";
 
 let App = (props) => (
 
-  <div>
+  <div className="my-content">
 
     {/* <NavBar brand="BOATENG SAMPSON" links={links}/> */}
     <Header/>
     <Objective/>
     <Interest/>
     <Skills/>
+    <Projects/>
     <Footer/>
 
 

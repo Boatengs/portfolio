@@ -7,9 +7,7 @@ let Footer = (props) => (
     <footer className="my-footer">
       <div className="container-fluid ">
         <div className="row">
-          <div className=" pt-4 col-md-4 my-copy">
-            <i className="fa fa-copyright">2017 Boateng Sampson</i>
-          </div>
+            <i className="fa fa-copyright my-copy">2017 Boateng Sampson</i>
           <div className="col-md-8">
             <a href="https://www.facebook.com/courage.boatwright">
               <i className="fa fa-facebook fa-2x icons"></i>
